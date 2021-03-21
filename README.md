@@ -1,4 +1,4 @@
-### Hello everyone, welcom to my GitHub ! 👋
+### Hello everyone, welcome to my GitHub ! 👋
 
 ![YY](https://github-readme-stats.vercel.app/api?username=KennardWang&show_icons=true)
 
