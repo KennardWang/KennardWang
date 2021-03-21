@@ -1,6 +1,6 @@
-### Hello everyone, I am YY 👋
+### Hello everyone, welcom to my GitHub !!! 👋
 
-![Welcom to my GitHub !!!](https://github-readme-stats.vercel.app/api?username=KennardWang&show_icons=true)
+![YY](https://github-readme-stats.vercel.app/api?username=KennardWang&show_icons=true)
 
 <!--
 **KennardWang/KennardWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
