@@ -20,7 +20,7 @@
 ![Latex](https://img.shields.io/badge/-Latex-000000?style=for-the-badge&logo=latex&logoColor=white&color=green)
 <br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white&color=EB1BD5)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=for-the-badge&logo=asp&logoColor=white&color=blueviolet)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=for-the-badge&logo=.net&logoColor=white&color=blueviolet)
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=white&color=117722)
 <br>
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql&logoColor=white&color=orange)
@@ -45,9 +45,8 @@
 
 
 <h2 align="left">📊 GitHub States</h2>
-<p align="left">
-<a href="https://github.com/Junyi-99">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennardWang&theme=tokyonight&show_icons=true"/>
+  &nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=KennardWang&theme=tokyonight&langs_count=8&layout=compact"/>
-</a>
 </p>
