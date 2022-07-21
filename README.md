@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I am Kennard. Welcome to my GitHub ! 🏠</h1>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=KennardWang.readme&left_color=pink&right_color=grey"></img>
+<p align="center"> 
+  <img src="https://img.shields.io/static/v1?label=Hi&message=Visitors&color=ff69b4" />
+  <br><br>
+  <img src="https://profile-counter.glitch.me/KennardWang/count.svg" />
 </p>
 
 
