@@ -14,16 +14,16 @@
 import KennardWang as KW
 
 def myself():
-    major = "MSc Applied Computational Science And Engineering"
+    major = "MSc Applied Computational Science and Engineering"
     platform = {"Windows", "Ubuntu Linux", "MacOS"}
     languages = { 
         "frontend": ["HTML5", "CSS3", "Javascript", "Markdown", "Latex"],
-        "backend": ["Python", "C++", "C", "C#", "Java"],
-        "framework": ["Bootstrap", "ASP.NET", "Django", "Flask"],
+        "backend": ["Python", "C++", "C#", "Java"],
+        "framework": ["Bootstrap", "ASP.NET", "Django"],
         "databse": "SQL"
     }
     ide = {"Pycharm", "VSCode", "Visual Studio", "Eclipse"}
-    tools = {"SQLite", "Unity Engine"}
+    tools = {"Git", "GitHub", "SQLite", "Unity"}
 
 
 if __name__ == "__main__":
@@ -33,14 +33,17 @@ if __name__ == "__main__":
 
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=pycharm&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=ubuntu&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=latex&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=flask&text=false&animation=spin&fill=black&textfill=bface6&">
-
+<img src="https://readme-components.vercel.app/api?component=logo&logo=windows&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=apple&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=pycharm&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=unity&text=false&animation=spin&fill=black&textfill=bface6&">
+    
+    
 <hr>
 
 <p align="center">
@@ -55,7 +58,7 @@ if __name__ == "__main__":
          height="150em"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=KennardWang&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
-  </a>
+<!--   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/KennardWang">
     <img align="center"
@@ -67,7 +70,7 @@ if __name__ == "__main__":
     <img align="center"
          height="150em"
          src="https://activity-graph.herokuapp.com/graph?username=KennardWang&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
-  </a>
+  </a> -->
 </p>
 
 
