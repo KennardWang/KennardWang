@@ -6,7 +6,9 @@
     <p align="center">
       <img src="https://profile-counter.glitch.me/KennardWang/count.svg" />
     </p>
-</div><br>
+</div>
+
+<br>
 
 <div style="width: 10px;"></div>
 
@@ -46,11 +48,11 @@ if __name__ == "__main__":
 
 <hr>
 
-Account/Organization | Description
---- | ---
-**[Kennard](https://github.com/KennardWang)** | My personal account, publish some interesting individual-projects.
-**[MUST-SCSE-SE-2018](https://github.com/MUST-SCSE-SE-2018)** | This organization archives my individual projects finished in MUST.
-**[MUST-Quick-Fry](https://github.com/MUST-Quick-Fry)** | An organization encompassing group projects finished with my teammates in MUST.
+| Account/Organization | Description |
+| :---: | --- |
+| **[Kennard](https://github.com/KennardWang)** | My personal account, publish some interesting individual-projects. |
+| **[MUST-SCSE-SE-2018](https://github.com/MUST-SCSE-SE-2018)** | This organization archives my individual projects finished in MUST. |
+| **[MUST-Quick-Fry](https://github.com/MUST-Quick-Fry)** | An organization encompassing group projects finished with my teammates in MUST. |
 
 <br>
 
