@@ -45,6 +45,7 @@ if __name__ == "__main__":
 <img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=unity&text=false&animation=spin&fill=black&textfill=bface6&">
+</h4>
 
 <hr>
 
@@ -56,4 +57,4 @@ if __name__ == "__main__":
 
 <br>
 
-Know more about me? Welcome to my [World](https://kennardwang.github.io) --->>>
+Know more about me? Welcome to my [World](https://kennardwang.github.io) --->
